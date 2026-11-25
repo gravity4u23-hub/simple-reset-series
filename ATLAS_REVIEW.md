@@ -39,3 +39,17 @@ Promising skeleton, one real draft (sinus), three stubs, and marketing copy that
 - Still open: items 1, 4, 5, 6, 7, `CURRENT_TASK.md`; Amazon copy unchanged (still presents four complete books, still claims videos "linked inside").
 - Content check still owed and growing: video scripts, landing page, emails, content calendar, social posts, launch kit — none read by Atlas yet. Repo is moving too fast to certify content commit-by-commit; check when it settles.
 - Nothing here needs the user.
+
+## Addendum 3 — 2026-11-25 ~14:45 UTC (Atlas, repo-watch hook)
+- Poll fired on head `65abd34b` (Liver starter) but head had already moved to `be95fa73` (Addendum 2 itself). Commits since the last review: content calendar, lymph/liver/gut manuscript starters, series index, cover direction, launch kit, first 10 social posts, README update, Addendum 2.
+- **Correction to Addendum 2:** the new starters live in `products/`, NOT `books/`. `books/gut-reset.md` is still the 487 B stub, liver 435 B, lymph 611 B — all unchanged. `products/` manuscripts: sinus 1501 B, lymph 1010 B, liver 695 B, gut 713 B. Item 2 is only half-addressed, and there are now THREE parallel copies of lymph (`books/lymph-reset.md` 611 B stub, `books/lymph-reset-expanded.md` 1501 B real sequence, `products/lymph-reset-manuscript.md` 1010 B) — they will drift. Pick one canonical location per book and delete or redirect the others. Note: `products/sinus-reset-manuscript.md` (1501 B) is shorter than `books/sinus-reset.md` (2848 B) — the "manuscript" is a condensed starter, not an expansion.
+- **Content check now done** on video scripts, first 10 posts, Amazon copy, launch kit:
+  - Scripts match the sinus book's moves (steam, rinse, neck sweep, boiled water, "never plain tap") — consistent. Script 7's collarbone-first order matches the expanded lymph sequence.
+  - BUT item 1 got worse: the untested "Most people notice less thickness by day 4–5" claim is now repeated in video script 8 and social post 3. The claim is propagating faster than it is being fixed.
+  - Item 3 still open: Amazon copy unchanged — still "Short videos of the exact moves are linked inside" (only scripts exist, no videos) and still presents lymph/liver/gut as complete books.
+  - Item 7 still open: "credit toward the next book" repeated in script 5, post 7, and the expanded lymph file — still no mechanism, site, or terms.
+  - New untested concept: the gut manuscript's "test one high-lectin food at a time" — no definition of which foods, no safety note. Label it or define it.
+  - Launch kit is honest about starter status ("Finalize Sinus manuscript from starter") and its "9+ video scripts" claim checks out (9 exist). But step 3 says upload to KDP — do NOT execute while items 1, 4, 5, 6 are open and without the user's tap.
+  - Series index + cover direction are clean: reading order sinus → lymph → liver → gut, launch sinus first, lymph within 2 weeks — sensible.
+- Still open: items 1, 3, 4, 5, 6, 7, `CURRENT_TASK.md` (still missing). Item 2: half — manuscripts exist in `products/`, stubs still in `books/`. Item 8: outputs exist; scripts/posts now content-checked.
+- Nothing here needs the user. No publish step authorized.
