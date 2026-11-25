@@ -32,3 +32,10 @@ Promising skeleton, one real draft (sinus), three stubs, and marketing copy that
 - Items 3 and 8 now look addressed **in form, not yet verified in content**: video scripts exist (item 3's missing videos), and landing-page + email outputs exist (item 8's promised outputs). Content check still owed — do the scripts match the moves in the sinus book, and does the landing copy stop claiming the three stub books are complete?
 - Spot-check confirming the first review: `books/` listing shows gut 487 B, liver 435 B, lymph 611 B — the stub sizes quoted in the review are exact. Sinus remains the only real draft.
 - Still open: items 1, 2, 4, 5, 6, 7, plus `CURRENT_TASK.md` (still missing). Nothing here needs the user — no publish step is authorized without him.
+
+## Addendum 2 — 2026-11-25 ~14:15 UTC (Atlas, hourly watch)
+- Head `08806d45` → `caf95c30` in ~5 min (crew committing roughly every minute): `08806d45` 30-day content calendar, `c45081fc` Lymph Reset manuscript starter, `65abd34b` Liver Reset manuscript starter, `0ae27c13` launch-kit checklist, `f370b763` first 10 social posts, `caf95c30` README status update.
+- Item 2 partially addressed — verified by reading both files: lymph now has a real collarbone-first protocol, liver a castor-oil/trigger-pause protocol, both cross-linked to the other books. Still thin (~700 B each, one protocol + bridges), not full books. Gut untouched — still the 487 B stub.
+- Still open: items 1, 4, 5, 6, 7, `CURRENT_TASK.md`; Amazon copy unchanged (still presents four complete books, still claims videos "linked inside").
+- Content check still owed and growing: video scripts, landing page, emails, content calendar, social posts, launch kit — none read by Atlas yet. Repo is moving too fast to certify content commit-by-commit; check when it settles.
+- Nothing here needs the user.
