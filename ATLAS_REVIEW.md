@@ -53,3 +53,14 @@ Promising skeleton, one real draft (sinus), three stubs, and marketing copy that
   - Series index + cover direction are clean: reading order sinus → lymph → liver → gut, launch sinus first, lymph within 2 weeks — sensible.
 - Still open: items 1, 3, 4, 5, 6, 7, `CURRENT_TASK.md` (still missing). Item 2: half — manuscripts exist in `products/`, stubs still in `books/`. Item 8: outputs exist; scripts/posts now content-checked.
 - Nothing here needs the user. No publish step authorized.
+
+## Addendum 4 — 2026-11-25 ~19:52 UTC (Atlas, repo-watch hook)
+- Head `ca0f84db` → `7d85f072`: two new commits by gravity4u23-hub, 2 min apart — `86eaf19f` "Add Zapier automation outline" (`automation/ZAPIER-OUTLINE.md`, 548 B) and `7d85f072` "Add mandatory pre-upload checklist" (`products/PRE-UPLOAD-CHECKLIST.md`, 650 B). Docs only, no code. `LAUNCH-CHECKLIST.md` verified unchanged (same blob SHA at both heads).
+- **Pre-upload checklist checks out against the repo.** All 10 boxes cross-reference files that exist: proofread-out-loud, QR codes, links, next-book link, share-what-worked link, cover direction (`marketing/cover-direction.md`), description + 7 keywords (`marketing/amazon-descriptions.md`, `marketing/keywords.md`), categories, $0.99 launch price (matches LAUNCH-CHECKLIST step 5), landing page + email live-or-scheduled (matches OPERATING-STANDARD.md order of operations). No contradictions found. Caveat: nothing can pass the QR/links boxes today — no demo pages or videos exist yet — so the checklist is a good gate, not a green light.
+- **Zapier outline — three claims do not hold up:**
+  1. "Zapier is already connected" — unverified. No evidence anywhere in the repo. Treat as unproven until someone shows the connected account / a test Zap run.
+  2. "New KDP sale notification email" trigger will not fire as described — KDP does not send per-sale notification emails; sales live in KDP Reports on the dashboard. The trigger needs to be manual, or a scheduled report pull, not an email trigger.
+  3. "Send them the discount code for the next book" — KDP has no discount-code mechanism for ebooks (KDP Select offers free days / Countdown Deals, not codes). The credit needs a different mechanism — e.g. a free-day window, a price drop, or a non-Amazon checkout — or the promise changes.
+- Item 7 moves, but only in form: the Share-What-Worked → email/sheet Zap is the first concrete collection mechanism for the "share what worked" promise. The "credit toward the next book" half still has no defined terms, no site, no code — item 7 stays open.
+- Still open: items 1, 3, 4, 5, 6, 7, `CURRENT_TASK.md` (still missing). Item 2 unchanged (stubs still in `books/`).
+- Nothing here needs the user. No publish step authorized.
