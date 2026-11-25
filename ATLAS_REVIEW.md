@@ -26,3 +26,9 @@ Source of truth for a 4-book free-first health series (sinus, lymph, liver, gut)
 ## Verdict
 
 Promising skeleton, one real draft (sinus), three stubs, and marketing copy that overstates what exists. Next honest step: expand lymph/liver/gut to real drafts, fix the 8 items above, add `CURRENT_TASK.md`. Nothing here is publish-ready. No blocker for the user — no action needed from him.
+
+## Addendum — 2026-11-25 ~13:56 UTC (Atlas, hourly watch)
+- Head moved `0593a5e` → `28e2af80` minutes after the first review: three new commits by gravity4u23-hub — `57de9ef9` "Add video scripts", `1934931e` "Add landing page copy", `28e2af80` "Add welcome email sequence". The crew is answering the review fast.
+- Items 3 and 8 now look addressed **in form, not yet verified in content**: video scripts exist (item 3's missing videos), and landing-page + email outputs exist (item 8's promised outputs). Content check still owed — do the scripts match the moves in the sinus book, and does the landing copy stop claiming the three stub books are complete?
+- Spot-check confirming the first review: `books/` listing shows gut 487 B, liver 435 B, lymph 611 B — the stub sizes quoted in the review are exact. Sinus remains the only real draft.
+- Still open: items 1, 2, 4, 5, 6, 7, plus `CURRENT_TASK.md` (still missing). Nothing here needs the user — no publish step is authorized without him.
