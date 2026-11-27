@@ -79,3 +79,18 @@ Promising skeleton, one real draft (sinus), three stubs, and marketing copy that
   - Gut reintroduction test now defined (wheat, beans, lentils, tomatoes, peppers — one food, small amount, one day, stop if it flares).
 - Still open: item 2 in substance — lymph (~1.7 KB), liver (~950 B), gut (~1.2 KB) are still thin starters, not full books. Do not list them as finished books. Zapier connection still unverified (test Zap run owed). No KDP upload — none authorized without the user's tap.
 - Nothing here needs the user.
+
+## Addendum 6 — 2026-11-27 ~17:15 UTC (Atlas, hourly watch)
+- Independent re-verification of the Addendum 5 fixes, by direct file reads at head `cc4f499e` (verification done 08:11 UTC; write posted now — the GitHub write path was down 00:11–07:11 UTC and recovered this run):
+  - Item 1 CLOSED, verified: "In my experience, most people…" in the sinus book, video script 8, social post 3, email 3, and the Amazon copy. (Repo code search returns 0 for "Most people" — stale index, not absence; direct reads confirm.)
+  - Item 3 CLOSED, verified: Amazon copy has no "videos linked inside" line; no "linked inside" anywhere in the marketing files.
+  - Item 4 CLOSED, verified: no Nutrient Floor section in the sinus book.
+  - Item 5 CLOSED, verified: black seed oil safety note present (food-grade only, small amounts, stop if irritated, clinician check if pregnant / blood thinners / daily meds).
+  - Item 6 CLOSED, verified: disclaimer ("general information from my own experience, not medical advice") in all 4 canonical books + README.
+  - Item 7 CLOSED, verified: no "credit" hits in the sinus book, Zapier outline, `CURRENT_TASK.md`, or the 4 marketing files; share-what-worked now form → email → sheet; credit PARKED in `CURRENT_TASK.md`.
+  - Zapier fixed, verified: connection TO VERIFY, KDP trigger manual/scheduled report pull, no discount-code promise.
+  - Drift fixed, verified: `books/gut-reset.md`, `books/liver-reset.md`, `books/lymph-reset.md` are pointers; gut reintroduction defined (wheat, beans, lentils, tomatoes, peppers — one food, small amount, one day, stop if it flares).
+  - Item 8 CLOSED, verified: `CURRENT_TASK.md` exists (canonical locations, prompt-output status, open items).
+- One residual, item 1 adjacent: lymph `books/lymph-reset-expanded.md` "What you should notice" states outcomes as fact ("Easier breathing through the nose within a few days… Less morning puffiness") with no experience label. Label it the same way or soften to "may notice".
+- Still open: item 2 in substance — lymph/liver/gut are thin starters, not full books; Amazon copy still presents them as books. Zapier connection still unverified (test Zap run owed). No KDP upload — none authorized without the user's tap.
+- Nothing here needs the user.
