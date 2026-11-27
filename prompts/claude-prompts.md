@@ -16,4 +16,4 @@ Write 10 short vertical video scripts (30–60 seconds). Mix of protocols and br
 Write landing page copy and a 5-email welcome sequence. Free daily-clear checklist lead magnet. Soft bridges only.
 
 ## Share-What-Worked System
-Design the page instructions and incentive copy. Post result → get credit toward next book. Include guidelines and example posts.
+Design the page instructions and copy. Post result → share what worked (collected by the form-to-email/sheet flow in automation/ZAPIER-OUTLINE.md). No credit or code promise — none is defined, and KDP ebooks have no discount codes. Include guidelines and example posts.

@@ -10,7 +10,7 @@ The face doesn’t empty on its own. Fluid has to move down through the neck and
 
 ## Email 3 (day 4)
 Subject: The free pause that helps  
-Seven to ten days off dairy, sugar, and wheat. Most people notice less thickness by day four or five. It’s in every book. The deeper reintroduction map is in The Simple Gut Reset.
+Seven to ten days off dairy, sugar, and wheat. In my experience, most people notice less thickness by day four or five. It’s in every book. The deeper reintroduction map is in The Simple Gut Reset.
 
 ## Email 4 (day 6)
 Subject: When the face keeps coming back  
@@ -18,4 +18,4 @@ If the local steps help but it returns, the load is often further upstream. Cast
 
 ## Email 5 (day 8)
 Subject: Share what worked  
-If any of the steps made the day easier, post a short note or video. Everyone who shares a real result gets credit toward the next book. Your story gives someone else permission to start.
+If any of the steps made the day easier, post a short note or video. Your story gives someone else permission to start.

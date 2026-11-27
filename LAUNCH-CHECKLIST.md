@@ -5,7 +5,7 @@
    Add bank + tax info so royalties can be paid.
 
 2. Proofread the Sinus manuscript  
-   Read products/sinus-reset-manuscript.md out loud.  
+   Read books/sinus-reset.md out loud.  
    Fix anything unclear. Use products/PROOF-AND-LINKS.md as the guide.
 
 3. Make the Sinus cover  

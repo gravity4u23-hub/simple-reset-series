@@ -4,7 +4,7 @@
 
 2. 5 minutes. Steam, rinse, neck sweep. Do it even on clear days. The stuffed days stay rare.
 
-3. Dairy, sugar, wheat. Pause them 7–10 days. Most people feel less thickness by day 4. Free. Works with the daily clear.
+3. Dairy, sugar, wheat. Pause them 7–10 days. In my experience, most people feel less thickness by day 4. Free. Works with the daily clear.
 
 4. Open the collarbone area first, then the neck. Order matters. Sequence is in The Simple Lymph Reset.
 
@@ -12,7 +12,7 @@
 
 6. If the local steps help but it returns, the source is often further upstream. Map is in The Simple Gut Reset.
 
-7. Post what cleared you. Short video or note. Everyone who shares a real result gets credit toward the next book.
+7. Post what cleared you. Short video or note. Your story gives someone else permission to start.
 
 8. Sinus for the face. Lymph for the exits. Liver for the load. Gut for the source. Start where you feel it.
 

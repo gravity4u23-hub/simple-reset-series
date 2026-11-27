@@ -2,6 +2,9 @@
 
 Open the routes everything else needs to drain.
 
+## A quick note
+This is general information from my own experience, not medical advice. If you have a health condition, take medication, or are pregnant, talk to a clinician before you start anything here. Stop if anything hurts or feels wrong.
+
 ## Why this first
 The face reports backup when the exit is slow. One-third of the body’s lymph nodes sit from the neck up. Material from the sinuses has to move down through the neck and past the collarbone area before it can leave. If that route is congested, rinsing the face only pushes fluid into a traffic jam.
 
@@ -23,4 +26,4 @@ The load these pathways are carrying is mapped in The Simple Liver Reset.
 The source of extra mucus is in The Simple Gut Reset.
 
 ## Share what worked
-Post a short note or video of the sequence and what changed. Everyone who shares a real result gets credit toward the next book.
+Post a short note or video of the sequence and what changed. Your story gives someone else permission to start the same steps.

@@ -20,7 +20,7 @@ Suggested destinations (create these pages):
 - yourdomain.com/castor-pack
 - yourdomain.com/lymph-sequence
 
-QR codes point to short vertical videos of the exact move.
+QR codes will point to short vertical videos of the exact move. Film the videos first — do not ship a QR code to a page that does not exist yet.
 In the ebook use clickable links. In paperback use QR codes.
 
 ## Domain

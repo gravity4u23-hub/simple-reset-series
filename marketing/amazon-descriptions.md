@@ -6,12 +6,12 @@ Clear the face pressure today. Open the exit so it stays clear.
 This is the free-first protocol for the stuffed, pressured, can’t-breathe-through-your-nose feeling.
 
 You get:
-- The 15-minute flare-day sequence (steam, rinse, warm cloth, neck sweep) that most people feel in the first round.
+- The 15-minute flare-day sequence (steam, rinse, warm cloth, neck sweep) that in my experience clears the pressure in the first round.
 - The 5-minute daily clear so the stuffed days stay rare.
 - The 7–10 day pause on dairy, sugar, and wheat that stops feeding the backup.
-- Optional next-level pieces (black seed in the rinse, castor pack over the liver, basic D/C/zinc) only if you want more speed.
+- Optional next-level pieces (black seed in the rinse, castor pack over the liver) only if you want more speed.
 
-Each step stands alone. Each one also points to the next book in the series so the resets build. Short videos of the exact moves are linked inside.
+Each step stands alone. Each one also points to the next book in the series so the resets build.
 
 If you want the pressure gone and the exits open, start here.
 

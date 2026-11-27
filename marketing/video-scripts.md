@@ -13,7 +13,7 @@
 “If the face keeps coming back, the load is often further upstream. Castor pack over the liver a few nights a week. Reduces what the lymph is carrying. How to do it is in The Simple Liver Reset.”
 
 5. Share What Worked
-“If the sequence cleared you or even just made the day easier, post a short video. Show what you did. Everyone who shares a real result gets credit toward the next book. Your story gives someone else permission to start.”
+“If the sequence cleared you or even just made the day easier, post a short video. Show what you did. Your story gives someone else permission to start.”
 
 6. Saline Rinse Basics
 “Basic saline rinse: warm, previously boiled and cooled water, half teaspoon non-iodized salt per cup. Lean forward, let it flow, clear gently. Never plain tap water. Do this after steam. Full steps in The Simple Sinus Reset.”
@@ -22,7 +22,7 @@
 “Open the collarbone area first, then the neck. If you push from the face before the exit is open, you’re just moving material into a traffic jam. Five-minute daily sequence in The Simple Lymph Reset.”
 
 8. The 7-Day Pause
-“Seven to ten days: pause dairy, sugar, and wheat. Free. Most people notice less thickness by day four or five. Then add them back one at a time and watch. Starts in every book, full map in The Simple Gut Reset.”
+“Seven to ten days: pause dairy, sugar, and wheat. Free. In my experience, most people notice less thickness by day four or five. Then add them back one at a time and watch. Starts in every book, full map in The Simple Gut Reset.”
 
 9. Series Path
 “Sinus for the face. Lymph for the exits. Liver for the load. Gut for the source. Each book stands alone and points to the next. Start where you feel it most.”

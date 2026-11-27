@@ -1,7 +1,7 @@
 # Full Launch Kit
 
 ## Ready Now
-- 4 manuscript starters (products/)
+- 4 canonical manuscripts (locations in CURRENT_TASK.md)
 - Amazon descriptions + keywords
 - 9+ video scripts
 - 30-day content calendar

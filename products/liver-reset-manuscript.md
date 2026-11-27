@@ -4,6 +4,9 @@
 ### Introduction
 When the liver is overloaded the drainage pathways stay slower and the face reports more backup. This book gives you the free moves that support bile flow and take pressure off the exits.
 
+### A quick note
+This is general information from my own experience, not medical advice. If you have a health condition, take medication, or are pregnant, talk to a clinician before you start anything here. Stop if anything hurts or feels wrong.
+
 ### Core Protocol
 1. Castor oil pack over the liver 3–4 nights a week (flannel, oil, gentle heat, 30–45 minutes).
 2. Bitter foods or lemon water in the morning.

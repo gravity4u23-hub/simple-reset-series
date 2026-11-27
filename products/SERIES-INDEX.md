@@ -8,11 +8,12 @@
 
 Each book stands alone. Each one points to the others.
 
-## Manuscript Starters
-- products/sinus-reset-manuscript.md
-- products/lymph-reset-manuscript.md
-- products/liver-reset-manuscript.md
-- products/gut-reset-manuscript.md
+## Canonical Manuscripts
+Edit these only. Other copies are pointer files.
+- The Simple Sinus Reset — books/sinus-reset.md
+- The Simple Lymph Reset — books/lymph-reset-expanded.md
+- The Simple Liver Reset — products/liver-reset-manuscript.md
+- The Simple Gut Reset — products/gut-reset-manuscript.md
 
 ## Launch Order
 Publish Sinus first. Lymph within 2 weeks. Liver and Gut follow.
